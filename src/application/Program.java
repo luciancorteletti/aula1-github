@@ -41,7 +41,7 @@ public class Program {
 						+ hotel[i]);
 			}
 			
-		
+		System.out.println("FIM DO PROGRAMA");
 		}
 		
 
