@@ -29,7 +29,8 @@ public class Program {
 			hotel[room] = new Hotel(name, email);	
 			System.out.println();
 			System.out.println();
-			
+			System.out.println();
+			System.out.println();
 		}
 		System.out.println("Busy rooms:");
 		
